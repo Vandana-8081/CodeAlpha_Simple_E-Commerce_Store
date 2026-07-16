@@ -82,7 +82,7 @@ Simple_E-Commerce_Store
 ### Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/SmartShop.git
+git clone https://github.com/Vandana-8081/CodeAlpha_Simple_E-Commerce_Store.git
 ```
 
 ### Backend Setup
@@ -214,7 +214,7 @@ git push origin feature-name
 **Vandana**
 
 - MERN Stack Developer
-- GitHub: https://github.com/yourusername
+- GitHub: https://github.com/Vandana-8081
 - LinkedIn: https://www.linkedin.com/in/vandana-098181330/
 
 ---
