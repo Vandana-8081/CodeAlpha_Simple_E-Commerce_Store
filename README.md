@@ -1,6 +1,6 @@
-# CodeAlpha_Simple_E-Commerce_Store
+# ShopSmart
 
-# 🛍️ Simple_E-Commerce_Store - MERN E-Commerce Website
+# 🛍️ ShopSmart - MERN E-Commerce Website
 
 Simple_E-Commerce_Store is a full-stack MERN E-Commerce application that allows users to browse products, manage their cart, and place orders. It also includes an Admin Panel to manage products and orders.
 
