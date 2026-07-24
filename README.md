@@ -52,6 +52,7 @@ Simple_E-Commerce_Store is a full-stack MERN E-Commerce application that allows 
 - Multer (Image Upload) & Imagekit
 
 ---
+Visit:https://smartshop-frontend-three.vercel.app/
 
 ## 📂 Project Structure
 
@@ -76,11 +77,6 @@ Simple_E-Commerce_Store
 ```
 
 ---
-### Visit
-
-```bash
-https://smartshop-frontend-three.vercel.app/
-```
 
 ## ⚙️ Installation
 
